@@ -1,0 +1,1 @@
+{"name":"bluff-command","private":true,"scripts":{"install:all":"npm i && npm i --prefix server && npm i --prefix client","dev":"concurrently -n server,client \"npm run dev --prefix server\" \"npm run dev --prefix client\""},"devDependencies":{"concurrently":"^9.0.0"}}

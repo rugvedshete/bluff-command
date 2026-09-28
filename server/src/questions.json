@@ -1,0 +1,14 @@
+[
+{"category":"Military","prompt":"Which nation built the Su-57 stealth fighter?","answer":"Russia"},
+{"category":"Aviation","prompt":"What was the first jet-powered aircraft to fly, in 1939?","answer":"Heinkel He 178"},
+{"category":"Naval","prompt":"What is the name of the first nuclear-powered submarine?","answer":"USS Nautilus"},
+{"category":"Space","prompt":"Which company developed the Starship rocket?","answer":"SpaceX"},
+{"category":"Technology","prompt":"Which company originally created the Rust programming language?","answer":"Mozilla"},
+{"category":"Engineering","prompt":"Which bridge is nicknamed 'The Coathanger'?","answer":"Sydney Harbour Bridge"},
+{"category":"Formula 1","prompt":"Which driver has the most F1 race wins as of 2024?","answer":"Lewis Hamilton"},
+{"category":"Cars","prompt":"Which company makes the Model S?","answer":"Tesla"},
+{"category":"Space","prompt":"Which probe first landed on a comet in 2014?","answer":"Philae"},
+{"category":"Aviation","prompt":"Which aircraft is nicknamed 'Warthog'?","answer":"A-10 Thunderbolt II"},
+{"category":"Technology","prompt":"What does the 'G' in GPU stand for?","answer":"Graphics"},
+{"category":"Naval","prompt":"Which navy operated the battleship Yamato?","answer":"Imperial Japanese Navy"}
+]

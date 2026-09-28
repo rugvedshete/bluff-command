@@ -1,0 +1,8 @@
+*{box-sizing:border-box}body{margin:0;background:#0f172a;color:#e5e7eb;font-family:system-ui,sans-serif}
+main{max-width:640px;margin:0 auto;padding:20px;display:flex;flex-direction:column;gap:12px}
+h1,h2{margin:0}.card{background:#111827;border-radius:12px;padding:16px}
+input,select{width:100%;padding:12px;border-radius:8px;border:1px solid #334155;background:#1e293b;color:#fff;font-size:16px}
+button{width:100%;min-height:48px;padding:10px;border:0;border-radius:8px;background:#22c55e;color:#04120a;font-weight:700;font-size:16px;cursor:pointer}
+button.alt{background:#38bdf8}button:disabled{opacity:.4;cursor:not-allowed}
+.row{display:flex;justify-content:space-between;gap:8px}.err{color:#f59e0b}.big{font-size:22px;font-weight:700}
+.ok{border-left:4px solid #22c55e}.dim{opacity:.6}.timer{font-size:28px;font-weight:800;color:#f59e0b}
